@@ -1,0 +1,30 @@
+[
+  {
+    "ten": "Đại Lý Nghệ Việt Hà Nội",
+    "diaChi": "22 Đinh Tiên Hoàng, Hoàn Kiếm, Hà Nội",
+    "soDienThoai": "0912 111 222",
+    "gioLamViec": "Thứ 2 – Chủ Nhật: 8h00 – 20h00",
+    "hinhAnh": "https://picsum.photos/seed/dl-ha-noi/600/380"
+  },
+  {
+    "ten": "Đại Lý Nghệ Việt TP. HCM",
+    "diaChi": "58 Trần Hưng Đạo, Quận 5, Tp. Hồ Chí Minh",
+    "soDienThoai": "0933 222 333",
+    "gioLamViec": "Thứ 2 – Chủ Nhật: 8h00 – 20h00",
+    "hinhAnh": "https://picsum.photos/seed/dl-hcm/600/380"
+  },
+  {
+    "ten": "Đại Lý Nghệ Việt Hải Phòng",
+    "diaChi": "15 Lê Lợi, Hồng Bàng, Hải Phòng",
+    "soDienThoai": "0944 333 444",
+    "gioLamViec": "Thứ 2 – Thứ 7: 8h00 – 18h00",
+    "hinhAnh": "https://picsum.photos/seed/dl-hai-phong/600/380"
+  },
+  {
+    "ten": "Đại Lý Nghệ Việt Đà Nẵng",
+    "diaChi": "88 Phan Chu Trinh, Hải Châu, Đà Nẵng",
+    "soDienThoai": "0955 444 555",
+    "gioLamViec": "Thứ 2 – Thứ 7: 8h00 – 18h00",
+    "hinhAnh": "https://picsum.photos/seed/dl-da-nang/600/380"
+  }
+]

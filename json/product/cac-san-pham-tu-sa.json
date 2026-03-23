@@ -1,0 +1,130 @@
+[
+  {
+    "id": "sa-001",
+    "slug": "tinh-dau-xa-chanh",
+    "ten": "Tinh Dầu Sả Chanh",
+    "moTaNgan": "Hương thơm nồng ấm của tinh dầu sả chanh có tác dụng khử mùi, thanh lọc không khí, diệt khuẩn, diệt côn trùng và đuổi muỗi, giảm đau nhức.",
+    "hinhAnh": [
+      "https://picsum.photos/seed/tinh-dau-xa-1/800/600",
+      "https://picsum.photos/seed/tinh-dau-xa-2/800/600",
+      "https://picsum.photos/seed/tinh-dau-xa-3/800/600"
+    ],
+    "tag": "Bán chạy",
+    "danhMuc": "cac-san-pham-tu-sa",
+    "phanLoai": [
+      {
+        "id": "sa-001-30ml",
+        "khoi_luong": "30ml",
+        "gia": 50000,
+        "giaGoc": 60000,
+        "giamGia": 17,
+        "conHang": true
+      },
+      {
+        "id": "sa-001-50ml",
+        "khoi_luong": "50ml",
+        "gia": 75000,
+        "giaGoc": 90000,
+        "giamGia": 17,
+        "conHang": true
+      },
+      {
+        "id": "sa-001-100ml",
+        "khoi_luong": "100ml",
+        "gia": 120000,
+        "giaGoc": 145000,
+        "giamGia": 17,
+        "conHang": true
+      }
+    ],
+    "congDung": "Khử mùi, thanh lọc không khí trong nhà. Diệt khuẩn, kháng nấm tự nhiên. Diệt côn trùng và đuổi muỗi hiệu quả. Giảm đau nhức, căng thẳng khi xông hơi hoặc massage. Tạo hương thơm dễ chịu, thư giãn tinh thần.",
+    "cachDung": "Nhỏ 3-5 giọt vào đèn xông tinh dầu hoặc máy khuếch tán. Pha loãng với dầu dừa để massage giảm đau nhức cơ bắp. Nhỏ vào nước lau nhà để khử mùi và diệt khuẩn. Cho vài giọt vào khăn hoặc gối để đuổi muỗi.",
+    "baoQuan": "Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Đậy kín nắp sau khi sử dụng. Để xa tầm tay trẻ em. Hạn sử dụng 24 tháng kể từ ngày sản xuất.",
+    "xuatXu": "Nông trường Thạch Quảng, xã Thạnh Quảng, Thanh Hoá, Việt Nam",
+    "chungNhan": ["100% tự nhiên", "Không pha trộn", "Chiết xuất từ sả tươi"]
+  },
+  {
+    "id": "sa-002",
+    "slug": "tinh-dau-treo-xe-oto",
+    "ten": "Tinh Dầu Treo Xe Ô Tô",
+    "moTaNgan": "Tinh dầu treo xe ô tô với hương thơm dễ chịu, giúp khử mùi hôi, ẩm mốc trong xe. Tạo không gian thư giãn, giảm căng thẳng khi lái xe, tăng sự tập trung.",
+    "hinhAnh": [
+      "https://picsum.photos/seed/tinh-dau-oto-1/800/600",
+      "https://picsum.photos/seed/tinh-dau-oto-2/800/600",
+      "https://picsum.photos/seed/tinh-dau-oto-3/800/600"
+    ],
+    "tag": "Mới",
+    "danhMuc": "cac-san-pham-tu-sa",
+    "phanLoai": [
+      {
+        "id": "sa-002-1lo",
+        "khoi_luong": "1 lọ",
+        "gia": 35000,
+        "giaGoc": 45000,
+        "giamGia": 22,
+        "conHang": true
+      }
+    ],
+    "congDung": "Khử mùi hôi, ẩm mốc trong xe ô tô. Tạo hương thơm dễ chịu, thư giãn khi lái xe. Giúp giảm căng thẳng, mệt mỏi trong hành trình dài. Tăng sự tập trung, cảnh giác khi lái xe. Trang trí nội thất xe thêm phần sang trọng.",
+    "cachDung": "Mở nắp lọ tinh dầu và treo trong xe ô tô ở vị trí gương chiếu hậu hoặc cửa gió điều hòa. Hương thơm sẽ tỏa đều trong không gian xe. Khi hương nhạt, có thể bổ sung thêm tinh dầu hoặc thay lọ mới.",
+    "baoQuan": "Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Tránh để nơi nhiệt độ cao. Đậy kín nắp khi không sử dụng. Hạn sử dụng 18 tháng kể từ ngày sản xuất.",
+    "xuatXu": "Nông trường Thạch Quảng, xã Thạnh Quảng, Thanh Hoá, Việt Nam",
+    "chungNhan": ["An toàn cho sức khỏe", "Hương thơm tự nhiên"]
+  },
+  {
+    "id": "sa-003",
+    "slug": "nuoc-rua-tay-xa-chanh",
+    "ten": "Nước Rửa Tay Sả Chanh",
+    "moTaNgan": "Nước rửa tay từ tinh dầu sả chanh tự nhiên, công thức lành tính, an toàn cho da. Kháng khuẩn hiệu quả, hương thơm dễ chịu. Sản phẩm đang trong giai đoạn hoàn thiện cuối để sớm ra mắt thị trường.",
+    "hinhAnh": [
+      "https://picsum.photos/seed/nuoc-rua-tay-1/800/600",
+      "https://picsum.photos/seed/nuoc-rua-tay-2/800/600",
+      "https://picsum.photos/seed/nuoc-rua-tay-3/800/600"
+    ],
+    "tag": "Sắp ra mắt",
+    "danhMuc": "cac-san-pham-tu-sa",
+    "phanLoai": [
+      {
+        "id": "sa-003-lo",
+        "khoi_luong": "Đang cập nhật",
+        "gia": 0,
+        "giaGoc": 0,
+        "giamGia": 0,
+        "conHang": false
+      }
+    ],
+    "congDung": "Kháng khuẩn, diệt khuẩn tay hiệu quả. Làm sạch da tay mà không gây khô ráp. Hương thơm sả chanh tự nhiên, dễ chịu. An toàn cho da nhạy cảm và trẻ em. Thích hợp sử dụng hằng ngày cho cả gia đình.",
+    "cachDung": "Lấy một lượng vừa đủ nước rửa tay. Xoa đều lên bàn tay, mu bàn tay và kẽ ngón tay. Chà xát trong 20-30 giây. Rửa sạch với nước. Lau khô tay bằng khăn sạch.",
+    "baoQuan": "Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Đậy kín nắp sau khi sử dụng. Để xa tầm tay trẻ em. Tránh tiếp xúc với mắt.",
+    "xuatXu": "Nông trường Thạch Quảng, xã Thạnh Quảng, Thanh Hoá, Việt Nam",
+    "chungNhan": ["Đang hoàn thiện", "An toàn cho da", "100% tự nhiên"]
+  },
+  {
+    "id": "sa-004",
+    "slug": "nuoc-lau-san-xa-chanh",
+    "ten": "Nước Lau Sàn Sả Chanh",
+    "moTaNgan": "Nước lau sàn từ tinh dầu sả chanh tự nhiên, công thức mạnh mẽ làm sạch vết bẩn, diệt khuẩn, khử mùi. Hương thơm sả chanh tươi mát lan tỏa khắp không gian. Sản phẩm đang trong giai đoạn hoàn thiện cuối.",
+    "hinhAnh": [
+      "https://picsum.photos/seed/nuoc-lau-san-1/800/600",
+      "https://picsum.photos/seed/nuoc-lau-san-2/800/600",
+      "https://picsum.photos/seed/nuoc-lau-san-3/800/600"
+    ],
+    "tag": "Sắp ra mắt",
+    "danhMuc": "cac-san-pham-tu-sa",
+    "phanLoai": [
+      {
+        "id": "sa-004-chai",
+        "khoi_luong": "Đang cập nhật",
+        "gia": 0,
+        "giaGoc": 0,
+        "giamGia": 0,
+        "conHang": false
+      }
+    ],
+    "congDung": "Làm sạch sàn nhà hiệu quả, loại bỏ vết bẩn cứng đầu. Diệt khuẩn, khử mùi hôi, ẩm mốc. Đuổi muỗi và côn trùng tự nhiên. Hương thơm sả chanh tươi mát, lưu hương lâu. An toàn cho trẻ em và thú cưng.",
+    "cachDung": "Pha loãng với nước theo tỷ lệ khuyến nghị trên bao bì. Lau sàn nhà bằng khăn hoặc cây lau sàn đã ngâm ướt dung dịch. Có thể lau trực tiếp không cần Sả lại với nước. Để khô tự nhiên hoặc lau khô bằng khăn.",
+    "baoQuan": "Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Đậy kín nắp sau khi sử dụng. Để xa tầm tay trẻ em. Tránh tiếp xúc với mắt và da.",
+    "xuatXu": "Nông trường Thạch Quảng, xã Thạnh Quảng, Thanh Hoá, Việt Nam",
+    "chungNhan": ["Đang hoàn thiện", "An toàn cho trẻ em", "100% tự nhiên"]
+  }
+]

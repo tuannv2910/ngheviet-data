@@ -1,0 +1,158 @@
+[
+  {
+    "id": "nghe-001",
+    "slug": "nano-curcumin-10",
+    "ten": "Nano Curcumin 10%",
+    "moTaNgan": "Dành cho phụ nữ sau khi sinh, người tiêu hóa kém, người có nguy cơ mắc các bệnh u bướu, gan mật, dạ dày, đại tràng, xương khớp, lão hóa, cholesterol cao, miễn dịch kém. Người có làn da yếu, nám da, da nhiều nếp nhăn.",
+    "hinhAnh": [
+      "https://picsum.photos/seed/nano-curcumin-1/800/600",
+      "https://picsum.photos/seed/nano-curcumin-2/800/600",
+      "https://picsum.photos/seed/nano-curcumin-3/800/600"
+    ],
+    "tag": "Bán chạy",
+    "danhMuc": "san-pham-tu-nghe",
+    "phanLoai": [
+      {
+        "id": "nghe-001-100g",
+        "khoi_luong": "100g",
+        "gia": 180000,
+        "giaGoc": 220000,
+        "giamGia": 18,
+        "conHang": true
+      }
+    ],
+    "congDung": "Hỗ trợ phụ nữ sau sinh hồi phục sức khỏe. Cải thiện tiêu hóa, giảm triệu chứng khó tiêu. Hỗ trợ phòng ngừa các bệnh u bướu, gan mật, dạ dày, đại tràng. Tốt cho xương khớp, chống lão hóa. Giảm cholesterol, tăng cường miễn dịch. Làm đẹp da, giảm nám, giảm nếp nhăn.",
+    "cachDung": "Pha 1-2 thìa cà phê (3-5g) với nước ấm hoặc sữa ấm. Uống 1-2 lần mỗi ngày, tốt nhất sau bữa ăn. Có thể thêm mật ong để tăng hương vị và hiệu quả.",
+    "baoQuan": "Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Đậy kín nắp sau khi sử dụng. Hạn sử dụng 18 tháng kể từ ngày sản xuất.",
+    "xuatXu": "Nông trường Thạch Quảng, xã Thạnh Quảng, Thanh Hoá, Việt Nam",
+    "chungNhan": ["OCOP 4 Sao", "Không chất bảo quản", "100% tự nhiên"]
+  },
+  {
+    "id": "nghe-002",
+    "slug": "tinh-bot-nghe",
+    "ten": "Tinh Bột Nghệ",
+    "moTaNgan": "Tinh bột nghệ vàng 100% nguyên chất, không phụ gia, không chất bảo quản. Hỗ trợ làm giảm các triệu chứng đau dạ dày tá tràng, hỗ trợ làm đẹp da, tốt cho phụ nữ sau khi sinh.",
+    "hinhAnh": [
+      "https://picsum.photos/seed/tinh-bot-nghe-1/800/600",
+      "https://picsum.photos/seed/tinh-bot-nghe-2/800/600",
+      "https://picsum.photos/seed/tinh-bot-nghe-3/800/600"
+    ],
+    "tag": "Bán chạy",
+    "danhMuc": "san-pham-tu-nghe",
+    "phanLoai": [
+      {
+        "id": "nghe-002-200g",
+        "khoi_luong": "200g (Hộp)",
+        "gia": 100000,
+        "giaGoc": 120000,
+        "giamGia": 17,
+        "conHang": true
+      },
+      {
+        "id": "nghe-002-400g",
+        "khoi_luong": "400g (Hộp)",
+        "gia": 180000,
+        "giaGoc": 220000,
+        "giamGia": 18,
+        "conHang": true
+      },
+      {
+        "id": "nghe-002-500g",
+        "khoi_luong": "500g (Túi)",
+        "gia": 230000,
+        "giaGoc": 280000,
+        "giamGia": 18,
+        "conHang": true
+      }
+    ],
+    "congDung": "Hỗ trợ làm giảm các triệu chứng đau dạ dày tá tràng như đau tức, nóng rát, khó chịu vùng thượng vị. Hỗ trợ làm đẹp da, giảm nám, chống lão hóa. Tốt cho phụ nữ sau khi sinh, giúp hồi phục sức khỏe. Tăng cường hệ miễn dịch. Kháng viêm tự nhiên.",
+    "cachDung": "Pha 1-2 thìa cà phê (5-10g) với nước ấm hoặc sữa ấm. Có thể thêm mật ong và tiêu đen để tăng hấp thụ. Dùng 1-2 lần mỗi ngày, tốt nhất sau bữa ăn hoặc trước khi đi ngủ.",
+    "baoQuan": "Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Đậy kín nắp sau khi sử dụng. Hạn sử dụng 12 tháng kể từ ngày sản xuất.",
+    "xuatXu": "Nông trường Thạch Quảng, xã Thạnh Quảng, Thanh Hoá, Việt Nam",
+    "chungNhan": ["OCOP 4 Sao", "Không chất bảo quản", "100% tự nhiên"]
+  },
+  {
+    "id": "nghe-003",
+    "slug": "bot-curcumin-95",
+    "ten": "Bột Curcumin 95%",
+    "moTaNgan": "Bột curcumin tinh khiết 95%, nồng độ cao. Hỗ trợ giảm triệu chứng viêm loét dạ dày – tá tràng, bảo vệ niêm mạc dạ dày, chống viêm, tăng cường sức đề kháng, làm đẹp da, tốt cho phụ nữ sau sinh.",
+    "hinhAnh": [
+      "https://picsum.photos/seed/curcumin-95-1/800/600",
+      "https://picsum.photos/seed/curcumin-95-2/800/600",
+      "https://picsum.photos/seed/curcumin-95-3/800/600"
+    ],
+    "tag": "Siêu ưu đãi",
+    "danhMuc": "san-pham-tu-nghe",
+    "phanLoai": [
+      {
+        "id": "nghe-003-50g",
+        "khoi_luong": "50g",
+        "gia": 220000,
+        "giaGoc": 270000,
+        "giamGia": 19,
+        "conHang": true
+      }
+    ],
+    "congDung": "Hỗ trợ giảm triệu chứng viêm loét dạ dày – tá tràng. Giúp bảo vệ và phục hồi niêm mạc dạ dày. Hỗ trợ chống viêm, tăng cường sức đề kháng. Giúp làm đẹp da, giảm thâm nám, chống lão hóa. Hỗ trợ chức năng gan, tốt cho sức khỏe tim mạch. Tốt cho phụ nữ sau sinh.",
+    "cachDung": "Pha 1/2 - 1 thìa cà phê (2-3g) với nước ấm hoặc sữa ấm. Nên thêm một chút tiêu đen để tăng hấp thụ curcumin. Dùng 1-2 lần mỗi ngày, tốt nhất sau bữa ăn. Có thể pha cùng mật ong.",
+    "baoQuan": "Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Đậy kín nắp sau khi sử dụng. Hạn sử dụng 18 tháng kể từ ngày sản xuất.",
+    "xuatXu": "Nông trường Thạch Quảng, xã Thạnh Quảng, Thanh Hoá, Việt Nam",
+    "chungNhan": ["Kiểm nghiệm VSATTP", "Curcumin 95%", "100% tự nhiên"]
+  },
+  {
+    "id": "nghe-004",
+    "slug": "nghe-tuoi",
+    "ten": "Nghệ Tươi",
+    "moTaNgan": "Củ nghệ tươi vàng óng, trồng tự nhiên tại Thanh Hoá. Chất lượng cao, không dùng hóa chất độc hại. Thích hợp để làm tinh bột nghệ, nấu ăn, làm thuốc dân gian.",
+    "hinhAnh": [
+      "https://picsum.photos/seed/nghe-tuoi-1/800/600",
+      "https://picsum.photos/seed/nghe-tuoi-2/800/600",
+      "https://picsum.photos/seed/nghe-tuoi-3/800/600"
+    ],
+    "tag": null,
+    "danhMuc": "san-pham-tu-nghe",
+    "phanLoai": [
+      {
+        "id": "nghe-004-kg",
+        "khoi_luong": "Từ 1 Kg trở lên",
+        "gia": 0,
+        "giaGoc": 0,
+        "giamGia": 0,
+        "conHang": true
+      }
+    ],
+    "congDung": "Nguyên liệu quý để làm tinh bột nghệ, nấu ăn. Hỗ trợ tiêu hóa, chống viêm. Làm đẹp da, chữa mụn, giảm nám. Hỗ trợ điều trị dạ dày, gan, mật. Tăng cường sức khỏe tổng thể.",
+    "cachDung": "Có thể rửa sạch, bào nhỏ hoặc xay nhuyễn để uống trực tiếp. Nấu cùng thực phẩm như canh, súp, cơm. Làm mặt nạ đắp da tự nhiên. Hoặc giao cho cơ sở chế biến để làm tinh bột nghệ.",
+    "baoQuan": "Bảo quản nơi khô ráo, thoáng mát. Có thể bảo quản trong tủ lạnh để giữ tươi lâu hơn. Sử dụng trong vòng 1-2 tuần sau khi thu hoạch.",
+    "xuatXu": "Nông trường Thạch Quảng, xã Thạnh Quảng, Thanh Hoá, Việt Nam",
+    "chungNhan": ["Trồng tự nhiên", "Không hóa chất độc hại"]
+  },
+  {
+    "id": "nghe-005",
+    "slug": "nghe-kho",
+    "ten": "Nghệ Khô",
+    "moTaNgan": "Củ nghệ được sấy khô tự nhiên, giữ nguyên dưỡng chất và mùi thơm đặc trưng. Dễ bảo quản, tiện lợi sử dụng lâu dài. Nguyên liệu để làm bột nghệ, nấu ăn, ngâm rượu.",
+    "hinhAnh": [
+      "https://picsum.photos/seed/nghe-kho-1/800/600",
+      "https://picsum.photos/seed/nghe-kho-2/800/600",
+      "https://picsum.photos/seed/nghe-kho-3/800/600"
+    ],
+    "tag": null,
+    "danhMuc": "san-pham-tu-nghe",
+    "phanLoai": [
+      {
+        "id": "nghe-005-kg",
+        "khoi_luong": "1 Kg",
+        "gia": 0,
+        "giaGoc": 0,
+        "giamGia": 0,
+        "conHang": true
+      }
+    ],
+    "congDung": "Nguyên liệu quý để xay thành bột nghệ, nấu ăn, ngâm rượu thuốc. Hỗ trợ tiêu hóa, chống viêm, chữa dạ dày. Tăng cường miễn dịch, bảo vệ gan. Làm đẹp da, chống lão hóa. Dễ bảo quản và sử dụng lâu dài.",
+    "cachDung": "Có thể xay nhỏ thành bột để uống hoặc đắp mặt. Thái lát mỏng để nấu canh, hầm xương, nấu cơm. Ngâm rượu để làm thuốc bổ. Hoặc giao cho cơ sở chế biến để làm tinh bột nghệ.",
+    "baoQuan": "Bảo quản nơi khô ráo, thoáng mát, tránh ẩm mốc. Để trong túi kín hoặc hộp kín. Hạn sử dụng 12-18 tháng kể từ ngày sản xuất.",
+    "xuatXu": "Nông trường Thạch Quảng, xã Thạnh Quảng, Thanh Hoá, Việt Nam",
+    "chungNhan": ["Sấy tự nhiên", "Không chất bảo quản", "100% tự nhiên"]
+  }
+]

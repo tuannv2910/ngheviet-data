@@ -1,0 +1,30 @@
+[
+  {
+    "ten": "Trụ Sở Chính – Thanh Hoá",
+    "diaChi": "Nông trường Thạch Quảng, xã Thạnh Quảng, tỉnh Thanh Hoá ",
+    "soDienThoai": "0865 767 589",
+    "gioLamViec": "Thứ 2 – Thứ 7: 8h00 – 17h30",
+    "hinhAnh": "https://picsum.photos/seed/vp-nghe-an/600/380"
+  },
+  {
+    "ten": "Chi Nhánh Hà Nội",
+    "diaChi": "Khu biệt thự liền kề Him Lam Vạn Phúc, quận Hà Đông, TP Hà Nội ",
+    "soDienThoai": "0869 810 089",
+    "gioLamViec": "Thứ 2 – Thứ 7: 8h00 – 17h30",
+    "hinhAnh": "https://picsum.photos/seed/vp-ha-noi/600/380"
+  },
+  {
+    "ten": "Văn Phòng Đại Diện TP. HCM",
+    "diaChi": "139 Lê Thị Riêng, Quận 1, Tp. Hồ Chí Minh",
+    "soDienThoai": "0905 234 567",
+    "gioLamViec": "Thứ 2 – Thứ 7: 8h00 – 17h00",
+    "hinhAnh": "https://picsum.photos/seed/vp-hcm/600/380"
+  },
+  {
+    "ten": "Văn Phòng Đại Diện Đà Nẵng",
+    "diaChi": "45 Nguyễn Văn Linh, Hải Châu, Đà Nẵng",
+    "soDienThoai": "0901 345 678",
+    "gioLamViec": "Thứ 2 – Thứ 6: 8h00 – 17h00",
+    "hinhAnh": "https://picsum.photos/seed/vp-da-nang/600/380"
+  }
+]
