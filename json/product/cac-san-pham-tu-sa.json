@@ -1,13 +1,13 @@
 [
   {
     "id": "sa-001",
-    "slug": "tinh-dau-xa-chanh",
+    "slug": "tinh-dau-sa-chanh",
     "ten": "Tinh Dầu Sả Chanh",
     "moTaNgan": "Hương thơm nồng ấm của tinh dầu sả chanh có tác dụng khử mùi, thanh lọc không khí, diệt khuẩn, diệt côn trùng và đuổi muỗi, giảm đau nhức.",
     "hinhAnh": [
-      "https://picsum.photos/seed/tinh-dau-xa-1/800/600",
-      "https://picsum.photos/seed/tinh-dau-xa-2/800/600",
-      "https://picsum.photos/seed/tinh-dau-xa-3/800/600"
+      "https://picsum.photos/seed/tinh-dau-sa-1/800/600",
+      "https://picsum.photos/seed/tinh-dau-sa-2/800/600",
+      "https://picsum.photos/seed/tinh-dau-sa-3/800/600"
     ],
     "tag": "Bán chạy",
     "danhMuc": "cac-san-pham-tu-sa",
@@ -73,7 +73,7 @@
   },
   {
     "id": "sa-003",
-    "slug": "nuoc-rua-tay-xa-chanh",
+    "slug": "nuoc-rua-tay-sa-chanh",
     "ten": "Nước Rửa Tay Sả Chanh",
     "moTaNgan": "Nước rửa tay từ tinh dầu sả chanh tự nhiên, công thức lành tính, an toàn cho da. Kháng khuẩn hiệu quả, hương thơm dễ chịu. Sản phẩm đang trong giai đoạn hoàn thiện cuối để sớm ra mắt thị trường.",
     "hinhAnh": [
@@ -101,7 +101,7 @@
   },
   {
     "id": "sa-004",
-    "slug": "nuoc-lau-san-xa-chanh",
+    "slug": "nuoc-lau-san-sa-chanh",
     "ten": "Nước Lau Sàn Sả Chanh",
     "moTaNgan": "Nước lau sàn từ tinh dầu sả chanh tự nhiên, công thức mạnh mẽ làm sạch vết bẩn, diệt khuẩn, khử mùi. Hương thơm sả chanh tươi mát lan tỏa khắp không gian. Sản phẩm đang trong giai đoạn hoàn thiện cuối.",
     "hinhAnh": [
