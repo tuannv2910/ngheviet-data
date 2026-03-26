@@ -41,7 +41,11 @@
     "cachDung": "Nhỏ 3-5 giọt vào đèn xông tinh dầu hoặc máy khuếch tán. Pha loãng với dầu dừa để massage giảm đau nhức cơ bắp. Nhỏ vào nước lau nhà để khử mùi và diệt khuẩn. Cho vài giọt vào khăn hoặc gối để đuổi muỗi.",
     "baoQuan": "Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Đậy kín nắp sau khi sử dụng. Để xa tầm tay trẻ em. Hạn sử dụng 24 tháng kể từ ngày sản xuất.",
     "xuatXu": "Nông trường Thạch Quảng, xã Thạnh Quảng, Thanh Hoá, Việt Nam",
-    "chungNhan": ["100% tự nhiên", "Không pha trộn", "Chiết xuất từ sả tươi"]
+    "chungNhan": [
+      "100% tự nhiên",
+      "Không pha trộn",
+      "Chiết xuất từ sả tươi"
+    ]
   },
   {
     "id": "sa-002",
@@ -69,7 +73,10 @@
     "cachDung": "Mở nắp lọ tinh dầu và treo trong xe ô tô ở vị trí gương chiếu hậu hoặc cửa gió điều hòa. Hương thơm sẽ tỏa đều trong không gian xe. Khi hương nhạt, có thể bổ sung thêm tinh dầu hoặc thay lọ mới.",
     "baoQuan": "Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Tránh để nơi nhiệt độ cao. Đậy kín nắp khi không sử dụng. Hạn sử dụng 18 tháng kể từ ngày sản xuất.",
     "xuatXu": "Nông trường Thạch Quảng, xã Thạnh Quảng, Thanh Hoá, Việt Nam",
-    "chungNhan": ["An toàn cho sức khỏe", "Hương thơm tự nhiên"]
+    "chungNhan": [
+      "An toàn cho sức khỏe",
+      "Hương thơm tự nhiên"
+    ]
   },
   {
     "id": "sa-003",
@@ -97,7 +104,11 @@
     "cachDung": "Lấy một lượng vừa đủ nước rửa tay. Xoa đều lên bàn tay, mu bàn tay và kẽ ngón tay. Chà xát trong 20-30 giây. Rửa sạch với nước. Lau khô tay bằng khăn sạch.",
     "baoQuan": "Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Đậy kín nắp sau khi sử dụng. Để xa tầm tay trẻ em. Tránh tiếp xúc với mắt.",
     "xuatXu": "Nông trường Thạch Quảng, xã Thạnh Quảng, Thanh Hoá, Việt Nam",
-    "chungNhan": ["Đang hoàn thiện", "An toàn cho da", "100% tự nhiên"]
+    "chungNhan": [
+      "Đang hoàn thiện",
+      "An toàn cho da",
+      "100% tự nhiên"
+    ]
   },
   {
     "id": "sa-004",
@@ -125,6 +136,58 @@
     "cachDung": "Pha loãng với nước theo tỷ lệ khuyến nghị trên bao bì. Lau sàn nhà bằng khăn hoặc cây lau sàn đã ngâm ướt dung dịch. Có thể lau trực tiếp không cần Sả lại với nước. Để khô tự nhiên hoặc lau khô bằng khăn.",
     "baoQuan": "Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Đậy kín nắp sau khi sử dụng. Để xa tầm tay trẻ em. Tránh tiếp xúc với mắt và da.",
     "xuatXu": "Nông trường Thạch Quảng, xã Thạnh Quảng, Thanh Hoá, Việt Nam",
-    "chungNhan": ["Đang hoàn thiện", "An toàn cho trẻ em", "100% tự nhiên"]
+    "chungNhan": [
+      "Đang hoàn thiện",
+      "An toàn cho trẻ em",
+      "100% tự nhiên"
+    ]
+  },
+  {
+    "id": "sa-006",
+    "slug": "nuoc-rua-bat-sa-chanh-tu-nhien",
+    "ten": "Nước Rửa Bát Sả Chanh Tự Nhiên",
+    "moTaNgan": "Nước rửa bát từ tinh dầu sả chanh tự nhiên, làm sạch dầu mỡ hiệu quả, khử mùi tanh, an toàn cho da tay. Hương sả chanh dịu nhẹ, mang lại cảm giác tươi mát khi sử dụng. Sản phẩm đang trong giai đoạn hoàn thiện cuối.",
+    "hinhAnh": [
+      "https://picsum.photos/seed/nuoc-rua-bat-1/800/600",
+      "https://picsum.photos/seed/nuoc-rua-bat-2/800/600",
+      "https://picsum.photos/seed/nuoc-rua-bat-3/800/600"
+    ],
+    "tag": "Sắp ra mắt",
+    "danhMuc": "cac-san-pham-tu-sa",
+    "phanLoai": [
+      {
+        "id": "sa-006-500ml",
+        "khoi_luong": "500ml",
+        "gia": 39000,
+        "giaGoc": 45000,
+        "giamGia": 13,
+        "conHang": false
+      },
+      {
+        "id": "sa-006-1l",
+        "khoi_luong": "1L",
+        "gia": 69000,
+        "giaGoc": 80000,
+        "giamGia": 14,
+        "conHang": false
+      },
+      {
+        "id": "sa-006-5l",
+        "khoi_luong": "Can 5L",
+        "gia": 299000,
+        "giaGoc": 350000,
+        "giamGia": 15,
+        "conHang": false
+      }
+    ],
+    "congDung": "Làm sạch dầu mỡ và cặn bẩn trên chén bát hiệu quả. Khử mùi tanh của thực phẩm như cá, thịt. Diệt khuẩn, giúp bát đĩa sạch an toàn. Hương thơm sả chanh tự nhiên dễ chịu. Dịu nhẹ với da tay, không gây khô ráp.",
+    "cachDung": "Lấy một lượng vừa đủ nước rửa bát ra miếng rửa hoặc hòa loãng với nước. Rửa sạch chén bát, sau đó tráng lại với nước sạch. Có thể dùng trực tiếp hoặc pha loãng tùy nhu cầu sử dụng.",
+    "baoQuan": "Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Đậy kín nắp sau khi sử dụng. Để xa tầm tay trẻ em. Tránh tiếp xúc trực tiếp với mắt.",
+    "xuatXu": "Nông trường Thạch Quảng, xã Thạnh Quảng, Thanh Hoá, Việt Nam",
+    "chungNhan": [
+      "Đang hoàn thiện",
+      "An toàn cho da tay",
+      "100% nguyên liệu tự nhiên"
+    ]
   }
 ]
