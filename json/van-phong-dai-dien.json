@@ -2,29 +2,22 @@
   {
     "ten": "Trụ Sở Chính – Thanh Hoá",
     "diaChi": "Nông trường Thạch Quảng, xã Thạnh Quảng, tỉnh Thanh Hoá ",
-    "soDienThoai": "0865 767 589",
+    "soDienThoai": "0982 366 276",
     "gioLamViec": "Thứ 2 – Thứ 7: 8h00 – 17h30",
-    "hinhAnh": "https://picsum.photos/seed/vp-nghe-an/600/380"
+    "hinhAnh": "https://media.vov.vn/sites/default/files/styles/large/public/2024-01/thanh_hoa_1_2.jpg"
   },
   {
     "ten": "Chi Nhánh Hà Nội",
     "diaChi": "Khu biệt thự liền kề Him Lam Vạn Phúc, quận Hà Đông, TP Hà Nội ",
-    "soDienThoai": "0869 810 089",
+    "soDienThoai": "0828 742 222",
     "gioLamViec": "Thứ 2 – Thứ 7: 8h00 – 17h30",
-    "hinhAnh": "https://picsum.photos/seed/vp-ha-noi/600/380"
+    "hinhAnh": "https://hoanghamobile.com/tin-tuc/wp-content/uploads/2024/04/anh-ha-noi.jpg"
   },
   {
-    "ten": "Văn Phòng Đại Diện TP. HCM",
-    "diaChi": "139 Lê Thị Riêng, Quận 1, Tp. Hồ Chí Minh",
-    "soDienThoai": "0905 234 567",
+    "ten": "Văn Phòng Đại Diện Hải Phòng",
+    "diaChi": "19/739 Nguyễn Văn Linh, phường An Biên, TP Hải Phòng",
+    "soDienThoai": "",
     "gioLamViec": "Thứ 2 – Thứ 7: 8h00 – 17h00",
-    "hinhAnh": "https://picsum.photos/seed/vp-hcm/600/380"
-  },
-  {
-    "ten": "Văn Phòng Đại Diện Đà Nẵng",
-    "diaChi": "45 Nguyễn Văn Linh, Hải Châu, Đà Nẵng",
-    "soDienThoai": "0901 345 678",
-    "gioLamViec": "Thứ 2 – Thứ 6: 8h00 – 17h00",
-    "hinhAnh": "https://picsum.photos/seed/vp-da-nang/600/380"
+    "hinhAnh": "https://cdn-media.sforum.vn/storage/app/media/thanhhuyen/%E1%BA%A3nh%20%C4%91%E1%BA%B9p%20h%E1%BA%A3i%20ph%C3%B2ng/4/anh-dep-hai-phong-44.jpg"
   }
 ]

@@ -161,7 +161,7 @@
         "gia": 39000,
         "giaGoc": 45000,
         "giamGia": 13,
-        "conHang": false
+        "conHang": true
       },
       {
         "id": "sa-006-1l",
@@ -169,7 +169,7 @@
         "gia": 69000,
         "giaGoc": 80000,
         "giamGia": 14,
-        "conHang": false
+        "conHang": true
       },
       {
         "id": "sa-006-5l",
