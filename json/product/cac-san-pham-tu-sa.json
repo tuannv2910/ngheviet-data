@@ -5,9 +5,9 @@
     "ten": "Tinh Dầu Sả Chanh",
     "moTaNgan": "Hương thơm nồng ấm của tinh dầu sả chanh có tác dụng khử mùi, thanh lọc không khí, diệt khuẩn, diệt côn trùng và đuổi muỗi, giảm đau nhức.",
     "hinhAnh": [
-      "https://picsum.photos/seed/tinh-dau-sa-1/800/600",
-      "https://picsum.photos/seed/tinh-dau-sa-2/800/600",
-      "https://picsum.photos/seed/tinh-dau-sa-3/800/600"
+      "https://raw.githubusercontent.com/tuannv2910/ngheviet-data/refs/heads/main/image/cay-xa/tinh-dau-xa-chanh/img-01.jpg",
+      "https://raw.githubusercontent.com/tuannv2910/ngheviet-data/refs/heads/main/image/cay-xa/tinh-dau-xa-chanh/img-02.jpg",
+      "https://raw.githubusercontent.com/tuannv2910/ngheviet-data/refs/heads/main/image/cay-xa/tinh-dau-xa-chanh/img-03.jpg"
     ],
     "tag": "Bán chạy",
     "danhMuc": "cac-san-pham-tu-sa",
@@ -53,9 +53,9 @@
     "ten": "Tinh Dầu Treo Xe Ô Tô",
     "moTaNgan": "Tinh dầu treo xe ô tô với hương thơm dễ chịu, giúp khử mùi hôi, ẩm mốc trong xe. Tạo không gian thư giãn, giảm căng thẳng khi lái xe, tăng sự tập trung.",
     "hinhAnh": [
-      "https://picsum.photos/seed/tinh-dau-oto-1/800/600",
-      "https://picsum.photos/seed/tinh-dau-oto-2/800/600",
-      "https://picsum.photos/seed/tinh-dau-oto-3/800/600"
+      "https://raw.githubusercontent.com/tuannv2910/ngheviet-data/refs/heads/main/image/cay-xa/tinh-dau-oto/img-01.jpg",
+      "https://raw.githubusercontent.com/tuannv2910/ngheviet-data/refs/heads/main/image/cay-xa/tinh-dau-oto/img-02.jpg",
+      "https://raw.githubusercontent.com/tuannv2910/ngheviet-data/refs/heads/main/image/cay-xa/tinh-dau-oto/img-03.jpg"
     ],
     "tag": "Mới",
     "danhMuc": "cac-san-pham-tu-sa",
@@ -84,9 +84,7 @@
     "ten": "Nước Rửa Tay Sả Chanh",
     "moTaNgan": "Nước rửa tay từ tinh dầu sả chanh tự nhiên, công thức lành tính, an toàn cho da. Kháng khuẩn hiệu quả, hương thơm dễ chịu. Sản phẩm đang trong giai đoạn hoàn thiện cuối để sớm ra mắt thị trường.",
     "hinhAnh": [
-      "https://picsum.photos/seed/nuoc-rua-tay-1/800/600",
-      "https://picsum.photos/seed/nuoc-rua-tay-2/800/600",
-      "https://picsum.photos/seed/nuoc-rua-tay-3/800/600"
+      "https://raw.githubusercontent.com/tuannv2910/ngheviet-data/refs/heads/main/image/cay-xa/nuoc-rua-tay/img-01.jpg"
     ],
     "tag": "Sắp ra mắt",
     "danhMuc": "cac-san-pham-tu-sa",
@@ -116,9 +114,7 @@
     "ten": "Nước Lau Sàn Sả Chanh",
     "moTaNgan": "Nước lau sàn từ tinh dầu sả chanh tự nhiên, công thức mạnh mẽ làm sạch vết bẩn, diệt khuẩn, khử mùi. Hương thơm sả chanh tươi mát lan tỏa khắp không gian. Sản phẩm đang trong giai đoạn hoàn thiện cuối.",
     "hinhAnh": [
-      "https://picsum.photos/seed/nuoc-lau-san-1/800/600",
-      "https://picsum.photos/seed/nuoc-lau-san-2/800/600",
-      "https://picsum.photos/seed/nuoc-lau-san-3/800/600"
+      "https://raw.githubusercontent.com/tuannv2910/ngheviet-data/refs/heads/main/image/cay-xa/nuoc-lau-san/img-01.jpg"
     ],
     "tag": "Sắp ra mắt",
     "danhMuc": "cac-san-pham-tu-sa",
@@ -148,9 +144,7 @@
     "ten": "Nước Rửa Bát Sả Chanh Tự Nhiên",
     "moTaNgan": "Nước rửa bát từ tinh dầu sả chanh tự nhiên, làm sạch dầu mỡ hiệu quả, khử mùi tanh, an toàn cho da tay. Hương sả chanh dịu nhẹ, mang lại cảm giác tươi mát khi sử dụng. Sản phẩm đang trong giai đoạn hoàn thiện cuối.",
     "hinhAnh": [
-      "https://picsum.photos/seed/nuoc-rua-bat-1/800/600",
-      "https://picsum.photos/seed/nuoc-rua-bat-2/800/600",
-      "https://picsum.photos/seed/nuoc-rua-bat-3/800/600"
+      "https://raw.githubusercontent.com/tuannv2910/ngheviet-data/refs/heads/main/image/cay-xa/nuoc-rua-chen/img-01.jpg"
     ],
     "tag": "Sắp ra mắt",
     "danhMuc": "cac-san-pham-tu-sa",
